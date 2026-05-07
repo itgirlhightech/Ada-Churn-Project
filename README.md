@@ -1,2 +1,4 @@
 
-# Ada-Churn-Project
+# Ada Churn Project
+
+ ### > Decisão Inteligente 
