@@ -1,16 +1,16 @@
-# 🏦 Bank Customer Churn — Análise e Modelagem Preditiva
+# Bank Customer Churn — Análise e Modelagem Preditiva
 
 Projeto desenvolvido como parte do programa **Elas+ Tech** (Trilha de Dados) da Ada Tech.
 
 ---
 
-## 📌 Objetivo
+## Objetivo
 
 Identificar os principais fatores que levam clientes a cancelar seus serviços bancários e construir um modelo preditivo capaz de antecipar o risco de churn — permitindo que a área de retenção atue de forma proativa e orientada por dados.
 
 ---
 
-## 🗂️ Estrutura do Repositório
+## Estrutura do Repositório
 
 ```
 Ada-Churn-Project/
@@ -32,7 +32,7 @@ Ada-Churn-Project/
 
 ---
 
-## 🛠️ Tecnologias Utilizadas
+## Ferramentas Utilizadas
 
 - **SQL** — análise exploratória inicial dos dados
 - **Python 3** — análise exploratória e modelagem preditiva
@@ -42,7 +42,7 @@ Ada-Churn-Project/
 
 ---
 
-## 📋 Etapas do Projeto
+## Etapas do Projeto
 
 ### 1. Análise SQL
 Queries exploratórias para entender o comportamento de churn por:
@@ -68,7 +68,7 @@ Investigação aprofundada em Python, cobrindo:
 
 ---
 
-## 📊 Resultados do Modelo
+## Resultados do Modelo
 
 | Métrica    | Regressão Logística | Random Forest |
 |------------|:-------------------:|:-------------:|
@@ -82,7 +82,7 @@ Investigação aprofundada em Python, cobrindo:
 
 ---
 
-## 🔍 Principais Insights
+## Principais Insights
 
 - **Alemanha** apresenta a maior taxa de churn (32,4%), quase o dobro de França e Espanha (~16%)
 - Clientes entre **46 e 60 anos** têm churn de ~37% — a faixa mais crítica
@@ -93,34 +93,17 @@ Investigação aprofundada em Python, cobrindo:
 
 ---
 
-## 💡 Recomendações para a Área de Retenção
+## Recomendações para a Área de Retenção
 
 - Criar programa de fidelidade direcionado a clientes **acima de 45 anos**
 - Implementar fluxo de **reengajamento automático** para clientes inativos (alertas a partir de 30 dias sem uso)
 - Priorizar clientes com perfil de **alto risco combinado**: idade > 45 + inativo + saldo positivo
 - Monitorar clientes com **3+ produtos** como sinal de insatisfação, não de engajamento
 
----
 
-## ▶️ Como Executar
-
-1. Clone o repositório:
-```bash
-git clone https://github.com/itgirlhightech/Ada-Churn-Project.git
-```
-
-2. Abra o notebook de EDA no Google Colab:
-   - `data/notebooks/Churn_Banco.ipynb`
-
-3. Para a modelagem preditiva, carregue o dataset diretamente do repositório:
-```python
-import pandas as pd
-url = 'https://raw.githubusercontent.com/itgirlhightech/Ada-Churn-Project/main/src/Churn_Modelling.csv'
-df = pd.read_csv(url)
-```
 
 ---
 
-## 👩‍💻 Autora
+## 👩‍💻 Autoras
 
-Desenvolvido por **[seu nome]** — Programa Elas+ Tech | Ada Tech | Trilha de Dados
+Desenvolvido por Grupo 14 [Beatriz Feitosa, Evelyn Feitosa, Raquel Ramalho, Palloma Oliveira] — Programa Elas+ Tech | Ada Tech | Trilha de Dados
