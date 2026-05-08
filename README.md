@@ -106,4 +106,4 @@ Investigação aprofundada em Python, cobrindo:
 
 ## Autoras
 
-Desenvolvido por Grupo 14 [Beatriz Feitosa, Evelyn Feitosa, Raquel Ramalho, Palloma Oliveira] — Programa Elas+ Tech | Ada Tech | Trilha de Dados
+Desenvolvido por Grupo 14 [Beatriz Feitosa, Evilyn Feitosa, Raquel Ramalho, Palloma Oliveira] — Programa Elas+ Tech | Ada Tech | Trilha de Dados
