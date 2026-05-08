@@ -67,7 +67,12 @@ Investigação aprofundada em Python, cobrindo:
 - Análise de importância das features
 
 ---
+## Como executar
+Churn_Banco (1): [![Abrir no Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/itgirlhightech/Ada-Churn-Project/blob/main/data/notebooks/Churn_Banco%20(1).ipynb)
 
+Etapa_ML (1): 
+
+---
 ## Resultados do Modelo
 
 | Métrica    | Regressão Logística | Random Forest |
